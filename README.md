@@ -12,4 +12,4 @@ Run Command:
 ```bash
 python stock_data_visualization.py
 ```
-![Alt text](Sample-Stock-Data.PNG?raw=true "Sample Stock data")
+![Sample Stock data](./Sample-Stock-Data.png?raw=true "Sample Stock data")
